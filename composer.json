@@ -1,6 +1,6 @@
 {
     "name": "higherchen/ipwall",
-    "description": "提供IP过滤功能",
+    "description": "IP filter",
     "authors": [
         {
             "name": "higher",
